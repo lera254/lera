@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<title>Ежик банк</title>
+</head>
+<body>
+<h1 id="welcome">Ежик банк</h1>
+  <img alt="Ежик банк" src="https://topodin.com/seo/post/kak-prodvinut-veb-sajt-banka" width=100>
+  <h2>Продукты</h2>
+  <h3>
+    
+ 1)Кредитная карта- платиновый лист  </h3>
+  <ul>
+    <li> 25.9% годовых</li>
+    <li> Лимит до 123 000 листочков </li> 
+    <li> Мгновенное оформление</li>
+ </ul>
+
+ <h3>
+    2)Дебетовая карта </h3>
+  <ul>
+    <li> 6%  годовых на остаток</li>
+    <li>  Ежемесячная капитализация</li>
+  </ul>
+    
+  <h2>Истории успеха</h2>
+  
+  <img alt="Ежик банк" src="https://zoo.dp.ua/afrikanskij-karlikovyj-ezhik-osobennosti-porody-i-soderzhaniya/" width=100>
+     <h3>
+       
+C дворника до WEB-програмиста  </h3>
+       <ul>
+         <li> За пол года</li>
+         <li> Без перегруза</li>
+         <li> Сделал вам сайт)</li>        
+  </ul> 
+
+</body>
+</html>
+
